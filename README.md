@@ -1,20 +1,7 @@
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">
 
-
-
-
-
-
-_   _      _                      _    
-| \ | | ___| |___      _____  _ __| | __
-|  \| |/ _ \ __\ \ /\ / / _ \| '__| |/ /
-| |\  |  __/ |_ \ V  V / (_) | |  |   < 
-|_| \_|\___|\__| \_/\_/ \___/|_|  |_|\_\
-                                        
- ____                                  
-/ ___|  ___ __ _ _ __  _ __   ___ _ __ 
-\___ \ / __/ _` | '_ \| '_ \ / _ \ '__|
- ___) | (_| (_| | | | | | | |  __/ |   
-|____/ \___\__,_|_| |_|_| |_|\___|_| 
 
 It is a very basic network scanner that can be used to scan an IP range. It is made just for fun whiloe learning Python scripting. It is only 
 for educational purpose.
